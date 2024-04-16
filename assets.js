@@ -18,6 +18,8 @@ export const styles = `
         background-color: #e6e6e6a6;
         border-radius: 10px;
         box-sizing: border-box;
+        z-index: 3;
+        opacity: 1;
     }
     .widget__icon {
         cursor: pointer;
